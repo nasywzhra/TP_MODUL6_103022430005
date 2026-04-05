@@ -1,0 +1,14 @@
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\bin\Debug\net10.0\TP_MODUL6_103022430005.exe
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\bin\Debug\net10.0\TP_MODUL6_103022430005.deps.json
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\bin\Debug\net10.0\TP_MODUL6_103022430005.runtimeconfig.json
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\bin\Debug\net10.0\TP_MODUL6_103022430005.dll
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\bin\Debug\net10.0\TP_MODUL6_103022430005.pdb
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.AssemblyInfoInputs.cache
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.AssemblyInfo.cs
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.csproj.CoreCompileInputs.cache
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.dll
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\refint\TP_MODUL6_103022430005.dll
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.pdb
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\TP_MODUL6_103022430005.genruntimeconfig.cache
+C:\Users\Nasywa Zahra\source\repos\TP_MODUL6_103022430005\TP_MODUL6_103022430005\obj\Debug\net10.0\ref\TP_MODUL6_103022430005.dll
