@@ -44,5 +44,8 @@ class SayaMusicTrack
         SayaMusicTrack lagu4 = new SayaMusicTrack("Glue Song");
         lagu4.IncreasePlayCount(100);
         lagu4.PrintTrackDetails();
+
+        Console.WriteLine("Tekan tombol apapun untuk keluar");
+        Console.ReadKey();
     }
 }
